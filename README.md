@@ -1,1 +1,1 @@
-# ittoolplugin.projects_manager
+# ittoolplugin.db_viewer
